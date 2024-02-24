@@ -100,7 +100,7 @@ function showScore() {
     nextButton.innerHTML = "Play Again";
     nextButton.style.display = "block";
 }
-
+ 
 function handleNextButton() {
     currentQuestionIndex++;
     if (currentQuestionIndex < questions.length) {
