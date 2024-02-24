@@ -14,6 +14,12 @@
 
 body{
     background: #001e4d;
+    /* background-image: url(https://img.lovepik.com/background/20211022/medium/lovepik-the-light-of-knowledge-and-science-and-technology-background-image_500618980.jpg);
+    background-repeat: no-repeat;
+    height: 100px;
+    background-size: cover;
+    background-position: center center; */
+ 
 }
 .app{
     background: #fff;
@@ -83,4 +89,11 @@ padding: 20px auto;
 }
 .incorrect{
     background-color: rgb(149, 0, 0);
+}
+
+footer{
+    text-align: center;
+    color: rgb(137, 144, 128);
+    padding-top:8px;
+    font-size: 12px;
 }
